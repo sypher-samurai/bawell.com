@@ -1,0 +1,3476 @@
+Uri: https://jumpstart.mediumra.re/
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\index.htm
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/assets/css/theme.min.css
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://jumpstart.mediumra.re/index.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\index.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-1.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-1.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-2.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-2.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-3.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-3.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-4.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-4.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-5.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-5.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/landing-6.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\landing-6.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/company-about-1.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\company-about-1.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/company-about-2.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\company-about-2.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/blog-listing-1.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\blog-listing-1.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/blog-listing-2.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\blog-listing-2.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/blog-listing-3.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\blog-listing-3.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/blog-article.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\blog-article.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/help-center-home.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\help-center-home.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/help-center-category.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\help-center-category.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/help-center-article.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\help-center-article.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/careers-1.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\careers-1.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/careers-2.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\careers-2.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/career-single.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\career-single.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/case-studies.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\case-studies.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/case-study-single.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\case-study-single.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/pricing-plans.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\pricing-plans.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/pricing-table.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\pricing-table.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/contact.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\contact.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/contact-map.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\contact-map.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/contact-planner.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\contact-planner.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-settings.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-settings.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-invoice.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-invoice.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-sign-up-cover.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-sign-up-cover.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-sign-in-cover.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-sign-in-cover.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-sign-up-simple.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-sign-up-simple.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-sign-in-simple.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-sign-in-simple.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/account-forgot-password.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\account-forgot-password.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/utility-coming-soon-subscribe.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\utility-coming-soon-subscribe.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/utility-coming-soon-countdown.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\utility-coming-soon-countdown.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/utility-coming-soon-social.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\utility-coming-soon-social.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/utility-legal-terms.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\utility-legal-terms.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/404.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\404.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/style-guide.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\style-guide.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/plugins.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\plugins.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/navigation-bars.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\navigation-bars.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/index.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\index.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/changelog.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\changelog.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/jumpstart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\jumpstart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-menu.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-x.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-x.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/settings-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\settings-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/layers.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\layers.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/display-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\display-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-smile.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-smile.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/demos/404.png
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\demos\404.png
+Content Type: image/png
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/envato.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\envato.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/bootstrap.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/dribbble.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\dribbble.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/twitter.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/github.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\github.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/facebook.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/google.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\google.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-arrow-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/popper.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/bootstrap.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\bootstrap.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/aos.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\aos.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/clipboard.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\clipboard.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jquery.fancybox.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jquery.fancybox.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/flatpickr.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\flatpickr.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/flickity.pkgd.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\flickity.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/ion.rangeSlider.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\ion.rangeSlider.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jarallax.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jarallax.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jarallax-video.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jarallax-video.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jarallax-element.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jarallax-element.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jquery.countdown.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jquery.countdown.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/jquery.smartWizard.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\jquery.smartWizard.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/plyr.polyfilled.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\plyr.polyfilled.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/prism.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\prism.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/scrollMonitor.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\scrollMonitor.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/smooth-scroll.polyfills.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\smooth-scroll.polyfills.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/svg-injector.umd.production.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\svg-injector.umd.production.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/twitterFetcher_min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\twitterFetcher_min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/typed.min.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\typed.min.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/js/theme.js
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\js\theme.js
+Content Type: text/javascript
+
+Uri: https://jumpstart.mediumra.re/assets/img/blobs/blob-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blobs\blob-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blobs/blob-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blobs\blob-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blobs/blob-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blobs\blob-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blobs/blob-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blobs\blob-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blobs/blob-5.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blobs\blob-5.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/heros/hero-square-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\heros\hero-square-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/heros/hero-square-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\heros\hero-square-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/square-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\square-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/square-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\square-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-caret-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-caret-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/square-5.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\square-5.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/square-4.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\square-4.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/asgardia.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\asgardia.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-9.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-9.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/kanba.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\kanba.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-5.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/treva.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\treva.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-4.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-4.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-4.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-4.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-5.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-5.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-5.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-5.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/heros/hero-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\heros\hero-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-media-play.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-media-play.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/kyan.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\kyan.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/atica.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\atica.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/treva.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\treva.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/kanba.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\kanba.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/tvit.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\tvit.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/aven.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\aven.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/large-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\large-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/aven.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\aven.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/square-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\square-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-5.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/illustrations/illustration-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\illustrations\illustration-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-caret-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-caret-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/illustrations/illustration-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\illustrations\illustration-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/ztos.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\ztos.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/route.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\route.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-left-panel-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-left-panel-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/box-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\box-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/thunder-move.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\thunder-move.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/bookmark.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\bookmark.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/select.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\select.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/fire.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\fire.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/sushi.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\sushi.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/illustrations/illustration-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\illustrations\illustration-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/heros/hero-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\heros\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-4.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-8.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-8.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/desktop-app/desktop-app-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\desktop-app\desktop-app-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/desktop-app/desktop-app-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\desktop-app\desktop-app-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/desktop-app/desktop-app-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\desktop-app\desktop-app-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/heros/hero-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\heros\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/product/utosia.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\product\utosia.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/mobile-app-1.png
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\mobile-app-1.png
+Content Type: image/png
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/kyan.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\kyan.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/goldline.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\goldline.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/mobile-app-2.png
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\mobile-app-2.png
+Content Type: image/png
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/mobile-app-3.png
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\mobile-app-3.png
+Content Type: image/png
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/mobile-app-4.png
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\mobile-app-4.png
+Content Type: image/png
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/apple.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/mobile-app/google-play.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\mobile-app\google-play.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/about-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-6.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-7.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/about-2.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/about-2a.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\about-2a.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-9.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-9.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-10.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-10.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-arrow-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-arrow-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/linkedin.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-6.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-6.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/male-7.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\male-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/avatars/female-6.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\avatars\female-6.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/credit-card.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\credit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/shutdown.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\shutdown.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/tools.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\tools.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-bar-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-bar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/compass.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\compass.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/gamepad-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\gamepad-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-bar-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-bar-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-6.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-7.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/brand/utosia.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\brand\utosia.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-8.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-8.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-3.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/thumb-10.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\thumb-10.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/case-studies/large-1.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\case-studies\large-1.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/payment/mastercard.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\payment\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-more-horizontal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-more-horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/payment/visa.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\payment\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/logos/payment/paypal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\logos\payment\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/sign-up.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\sign-up.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/instagram.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/illustrations/illustration-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\illustrations\illustration-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/documentation/graphics-icons.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\graphics-icons.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-search.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-shopping-bag.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-shopping-bag.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-shopping-cart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-map-marker-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-map-marker-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-more-vertical.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-more-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-home.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-home.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-chevron-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-chevron-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-chevron-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-chevron-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-chevron-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-clock.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-caret-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-caret-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-caret-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-caret-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-calendar.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/interface/icon-arrow-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\interface\icon-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/kickstarter.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\kickstarter.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/pinterest.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/producthunt.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\producthunt.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/skype.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\skype.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/slack.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/spotify.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\spotify.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/unsplash.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\unsplash.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/vimeo.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\vimeo.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/social/youtube.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\social\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/attachment-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\attachment-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/lte-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\lte-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/home.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\home.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/user.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\user.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/active-call.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\active-call.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/blog/thumb-12.jpg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\blog\thumb-12.jpg
+Content Type: image/jpeg
+
+Uri: https://jumpstart.mediumra.re/documentation/js-countdown.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-countdown.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-countup.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-countup.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-flatpickr.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-flatpickr.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-maps.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-maps.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-fancybox.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-fancybox.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-isotope.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-isotope.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-jarallax.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-jarallax.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-ion-rangeslider.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-ion-rangeslider.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-aos.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-aos.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-flickity.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-flickity.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-typed-text.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-typed-text.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-plyr.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-plyr.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/door-open.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\door-open.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/star.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\star.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/video/video-1.mp4
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\video\video-1.mp4
+Content Type: video/mp4
+
+Uri: https://jumpstart.mediumra.re/assets/video/video-1.webm
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\video\video-1.webm
+Content Type: video/webm
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/readed-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\readed-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/flags/eu.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\flags\eu.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/documentation/file-structure.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\file-structure.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/gulp.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\gulp.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/guides-edit-the-color-scheme.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\guides-edit-the-color-scheme.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/guides-using-the-starter-template.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\guides-using-the-starter-template.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/guides-dynamic-logo-color.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\guides-dynamic-logo-color.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/guides-back-to-top-button.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\guides-back-to-top-button.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/guides-loading-animations.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\guides-loading-animations.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/graphics-svg.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\graphics-svg.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-avatars.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-avatars.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-blobs.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-blobs.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-dividers.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-dividers.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-icons.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-icons.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-image-backgrounds.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-image-backgrounds.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-flickity.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-flickity.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/css-utility-classes.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\css-utility-classes.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-prism.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-prism.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-dropdown-grid.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-dropdown-grid.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-form-email.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-form-email.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-form-swiftmailer.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-form-swiftmailer.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-form-mailchimp.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-form-mailchimp.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-recaptcha-v2.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-recaptcha-v2.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-overlay-nav.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-overlay-nav.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-sticky.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-sticky.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-fade-page.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-fade-page.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-smooth-scroll.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-smooth-scroll.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-svg-injector.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-svg-injector.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/js-twitter-fetcher.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\js-twitter-fetcher.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/php-mailchimp.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\php-mailchimp.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/documentation/php-swiftmailer.html
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\documentation\php-swiftmailer.html
+Content Type: text/html
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/warning-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\warning-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/backspace.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\backspace.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/cmd.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\cmd.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/code.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\code.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/commit.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\commit.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/compiling.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\compiling.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/control.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\control.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/done-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\done-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/error-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\error-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/git-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\git-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/git-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\git-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/git-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\git-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/git-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\git-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/github.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\github.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/info-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\info-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/left-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\left-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/loading.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/lock-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\lock-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/lock-overturning.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\lock-overturning.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/option.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\option.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/puzzle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\puzzle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/question-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\question-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/right-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\right-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/settings-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\settings-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/shift.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\shift.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/spy.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\spy.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/stop.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\stop.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/terminal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\terminal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/thunder-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\thunder-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/time-schedule.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\time-schedule.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/code/warning-1-circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\code\warning-1-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/adress-book-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\adress-book-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/add-user.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\add-user.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/address-card.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\address-card.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/adress-book-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\adress-book-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/archive.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\archive.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/call-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\call-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/call.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\call.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-5.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-5.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-6.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-6.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-error.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-error.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/chat-locked.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\chat-locked.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/clipboard-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\clipboard-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/clipboard-list.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\clipboard-list.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/contact-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\contact-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/delete-user.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\delete-user.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/dial-numbers.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\dial-numbers.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/flag.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\flag.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/forward.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\forward.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/group-chat.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\group-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/group.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\group.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/incoming-box.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\incoming-box.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/incoming-call.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\incoming-call.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/incoming-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\incoming-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-at.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-at.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-attachment.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-attachment.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-box.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-box.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-error.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-error.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-locked.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-locked.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-notification.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-notification.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-opened.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-opened.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail-unocked.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail-unocked.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/missed-call.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\missed-call.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/outgoing-box.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\outgoing-box.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/outgoing-call.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\outgoing-call.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/outgoing-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\outgoing-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/reply-all.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\reply-all.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/reply.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\reply.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/rss.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\rss.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/safe-chat.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\safe-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/send.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\send.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/sending-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\sending-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/sending.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\sending.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/share.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\share.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/shield-thunder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\shield-thunder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/shield-user.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\shield-user.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/snoozed-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\snoozed-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/spam.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\spam.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/thumbtack.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\thumbtack.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/urgent-mail.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\urgent-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/communication/write.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\communication\write.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/cutting-board.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\cutting-board.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/baking-glove.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\baking-glove.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/bowl.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\bowl.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/chef.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\chef.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/cooking-book.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\cooking-book.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/cooking-pot.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\cooking-pot.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/dinner.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\dinner.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/dish.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\dish.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/dishes.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\dishes.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/fork-spoon-knife.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\fork-spoon-knife.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/fork-spoon.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\fork-spoon.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/fork.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\fork.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/frying-pan.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\frying-pan.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/grater.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\grater.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/kitchen-scale.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\kitchen-scale.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/knife-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\knife-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/knife-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\knife-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/knife-fork-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\knife-fork-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/knife-fork-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\knife-fork-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/ladle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\ladle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/rolling-pin.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\rolling-pin.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/saucepan.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\saucepan.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/shovel.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\shovel.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/sieve.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\sieve.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/cooking/spoon.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\cooking\spoon.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/arrows.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/adjust.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\adjust.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-center-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-center-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-center-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-center-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-center.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-center.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-left-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-left-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-left-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-left-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-right-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-right-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-right-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-right-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/anchor-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\anchor-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/bezier-curve.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\bezier-curve.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/border.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\border.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/brush.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/bucket.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\bucket.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/cap-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\cap-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/cap-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\cap-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/cap-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\cap-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/circle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/color-profile.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\color-profile.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/color.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\color.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/component.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\component.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/crop.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\crop.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/difference.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\difference.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/edit.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\edit.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/eraser.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\eraser.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/flatten.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\flatten.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/flip-horizontal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\flip-horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/flip-vertical.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\flip-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/horizontal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/image.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\image.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/interselect.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\interselect.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/join-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\join-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/join-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\join-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/join-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\join-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/line.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\line.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/magic.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\magic.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/mask.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\mask.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/patch.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\patch.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/pen-ruler.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\pen-ruler.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/pen-tool-vector.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\pen-tool-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/pencil.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/picker.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\picker.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/pixels.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\pixels.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/polygon.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/position.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\position.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/rectangle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\rectangle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/saturation.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\saturation.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/sketch.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\sketch.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/stamp.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\stamp.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/subtract.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\subtract.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/target.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\target.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/triangle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\triangle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/union.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\union.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/vertical.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/zoom-minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\zoom-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/design/zoom-plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\design\zoom-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/camera.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\camera.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/airpods.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\airpods.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/android.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\android.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/apple-watch.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\apple-watch.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/battery-charging.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\battery-charging.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/battery-empty.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\battery-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/battery-full.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\battery-full.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/battery-half.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\battery-half.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/bluetooth.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\bluetooth.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/cardboard-vr.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\cardboard-vr.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/cassete.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\cassete.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/cpu-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\cpu-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/cpu-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\cpu-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/diagnostics.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\diagnostics.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/display-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\display-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/display-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\display-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/gameboy.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\gameboy.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/gamepad-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\gamepad-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/generator.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\generator.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/hard-drive.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\hard-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/headphones.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\headphones.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/homepod.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\homepod.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/imac.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\imac.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/iphone-back.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\iphone-back.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/iphone-x-back.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\iphone-x-back.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/iphone-x.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\iphone-x.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/keyboard.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\keyboard.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/laptop-macbook.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\laptop-macbook.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/laptop.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\laptop.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/lte-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\lte-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/mic.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\mic.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/midi.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\midi.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/mouse.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\mouse.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/phone.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/printer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\printer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/radio.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\radio.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/router-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\router-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/router-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\router-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/sd-card.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\sd-card.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/server.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\server.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/speaker.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\speaker.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/tablet.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\tablet.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/tv-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\tv-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/tv-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\tv-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/usb-storage.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\usb-storage.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/usb.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\usb.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/video-camera.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\video-camera.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/watch-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\watch-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/watch-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\watch-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/devices/wi-fi.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\devices\wi-fi.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/iron.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\iron.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/air-conditioning.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\air-conditioning.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/blender.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\blender.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/fridge.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\fridge.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/gas-stove.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\gas-stove.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/highvoltage.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\highvoltage.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/kettle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\kettle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/mixer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\mixer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/outlet.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\outlet.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/range-hood.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\range-hood.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/socket-eu.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\socket-eu.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/socket-us.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\socket-us.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/washer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\washer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/electric/hair-dryer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\electric\hair-dryer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/export.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\export.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/cloud-download.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\cloud-download.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/cloud-upload.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\cloud-upload.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/compilation.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\compilation.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/compiled-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\compiled-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/deleted-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\deleted-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/deleted-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\deleted-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/download.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\download.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/downloaded-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\downloaded-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/downloads-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\downloads-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/file-cloud.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\file-cloud.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/file-done.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\file-done.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/file-minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\file-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/file-plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\file-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-cloud.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-cloud.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-error.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-error.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-solid.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-star.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-star.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder-thunder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder-thunder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/group-folders.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\group-folders.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/import.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\import.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/locked-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\locked-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/media-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\media-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/media.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\media.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/music.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\music.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/pictures-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\pictures-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/pictures-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\pictures-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/protected-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\protected-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/selected-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\selected-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/share.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\share.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/upload-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\upload-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/upload.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\upload.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/uploaded-file.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\uploaded-file.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/files/user-folder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\files\user-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/cheese.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\cheese.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/beer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\beer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/bottle-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\bottle-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/bottle-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\bottle-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/bread.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\bread.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/bucket.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\bucket.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/burger.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\burger.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/cake.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\cake.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/carrot.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\carrot.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/chicken.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\chicken.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/coffee-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\coffee-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/coffee-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\coffee-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/cookie.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\cookie.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/dinner.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\dinner.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/fish.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\fish.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/french-bread.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\french-bread.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/glass-martini.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\glass-martini.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/ice-cream-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\ice-cream-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/ice-cream-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\ice-cream-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/miso-soup.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\miso-soup.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/orange.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\orange.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/pizza.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\pizza.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/two-bottles.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\two-bottles.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/food/wine.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\food\wine.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/duplicate.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\duplicate.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/attachment-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\attachment-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/binocular.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\binocular.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/clip.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\clip.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/clipboard.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\clipboard.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/cursor.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/dislike.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\dislike.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/edit.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\edit.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/expand-arrows.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\expand-arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/half-heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\half-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/half-star.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\half-star.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/hidden.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\hidden.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/like.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\like.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/lock.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/notification-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\notification-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/notifications-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\notifications-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/other-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\other-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/other-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\other-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/sad.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\sad.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/save.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\save.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/scale.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\scale.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/scissors.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\scissors.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/search.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\search.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/settings-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\settings-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/settings-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\settings-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/shield-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\shield-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/shield-disabled.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\shield-disabled.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/shield-protected.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\shield-protected.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/size.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\size.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/smile.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\smile.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/thunder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\thunder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/trash.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\trash.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/unlock.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\unlock.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/update.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\update.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/general/visible.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\general\visible.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/bulb-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\bulb-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/air-ballon.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\air-ballon.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/alarm-clock.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\alarm-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/armchair.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\armchair.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/bag-chair.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\bag-chair.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/bath.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\bath.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/bed.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\bed.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/book-open.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\book-open.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/book.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\book.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/box.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\box.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/broom.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\broom.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/building.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\building.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/bulb-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\bulb-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/chair-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\chair-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/chair-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\chair-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/clock.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/couch.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\couch.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/deer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\deer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/earth.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\earth.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/fireplace.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\fireplace.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/flashlight.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\flashlight.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/flower-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\flower-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/flower-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\flower-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/flower-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\flower-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/globe.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/home-heart.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\home-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/key.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\key.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/ladder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\ladder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/lamp-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\lamp-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/lamp-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\lamp-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/library.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\library.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/mailbox.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\mailbox.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/mirror.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\mirror.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/picture.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\picture.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/ruler.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\ruler.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/stairs.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\stairs.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/timer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\timer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/toilet.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\toilet.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/towel.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\towel.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/trash.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\trash.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/water-mixer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\water-mixer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/weight-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\weight-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/weight-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\weight-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/wood-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\wood-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/wood-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\wood-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/wood-horse.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\wood-horse.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/сommode-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\сommode-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/сommode-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\сommode-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/сupboard.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\сupboard.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/home/сurtains.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\home\сurtains.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-3d.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-3d.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-4-blocks.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-4-blocks.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-arrange.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-arrange.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-grid.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-horizontal.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-horizontal.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-left-panel-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-left-panel-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-right-panel-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-right-panel-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-right-panel-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-right-panel-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-4.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-5.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-5.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-top-panel-6.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-top-panel-6.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/layout/layout-vertical.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\layout\layout-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/location-arrow.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\location-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/direction-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\direction-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/direction-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\direction-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/marker-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\marker-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/marker-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\marker-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/map/position.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\map\position.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/next.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\next.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/add-music.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\add-music.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/airplay-video.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\airplay-video.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/airplay.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\airplay.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/back.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\back.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/backward.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\backward.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/cd.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/dvd.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\dvd.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/eject.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\eject.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/equalizer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\equalizer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/forward.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\forward.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/media-library-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\media-library-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/media-library-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\media-library-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/media-library-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\media-library-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/movie-lane-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\movie-lane-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/movie-lane-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\movie-lane-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/music-cloud.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\music-cloud.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/music-note.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\music-note.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/music.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\music.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/mute.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\mute.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/pause.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\pause.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/play.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\play.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/playlist-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\playlist-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/playlist-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\playlist-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/rec.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\rec.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/repeat-one.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\repeat-one.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/repeat.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\repeat.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/shuffle.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\shuffle.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/volume-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\volume-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/volume-full.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\volume-full.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/volume-half.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\volume-half.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/volume-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\volume-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/vynil.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\vynil.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/media/youtube.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\media\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-from-bottom.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-from-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-double-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-double-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-double-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-double-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-double-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-double-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-double-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-double-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/angle-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\angle-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-from-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-from-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-from-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-from-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-from-top.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-from-top.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-to-bottom.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-to-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-to-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-to-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-to-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-to-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-to-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-to-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrow-up.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrows-h.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrows-h.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/arrows-v.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\arrows-v.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/close.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\close.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/double-check.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\double-check.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/down-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\down-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/down-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\down-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/down-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\down-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/exchange.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\exchange.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/left-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\left-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/left-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\left-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/minus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/plus.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/right-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\right-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/right-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\right-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/sign-in.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\sign-in.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/sign-out.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\sign-out.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/up-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\up-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/up-down.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\up-down.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/up-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\up-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/up-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\up-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/navigation/waiting.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\navigation\waiting.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/cart-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\cart-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/atm.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\atm.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/bag-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\bag-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/bag-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\bag-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/barcode-read.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\barcode-read.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/barcode-scan.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\barcode-scan.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/barcode.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\barcode.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/bitcoin.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\bitcoin.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/box-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\box-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/box-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\box-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/calculator.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\calculator.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/cart-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\cart-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/cart-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\cart-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-bar-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-bar-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-line-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-line-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-line-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-line-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/chart-pie.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\chart-pie.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/dollar.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\dollar.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/euro.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\euro.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/gift.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\gift.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/loader.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/mc.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/money.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\money.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/pound.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\pound.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/price-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\price-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/price-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\price-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/rouble.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\rouble.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/safe.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\safe.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/sale-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\sale-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/sale-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\sale-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/settings.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\settings.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/sort-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\sort-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/sort-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\sort-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/sort-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\sort-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/ticket.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\ticket.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/wallet-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\wallet-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/wallet-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\wallet-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/shopping/wallet.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\shopping\wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/quote-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\quote-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/align-auto.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\align-auto.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/align-center.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\align-center.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/align-justify.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\align-justify.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/align-left.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\align-left.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/align-right.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\align-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/article.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\article.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/bold.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\bold.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/bullet-list.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\bullet-list.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/code.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\code.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/edit-text.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\edit-text.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/filter.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\filter.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/font.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\font.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/h1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\h1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/h2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\h2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/itallic.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\itallic.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/menu.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/paragraph.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\paragraph.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/quote-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\quote-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/redo.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\redo.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/strikethrough.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\strikethrough.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/text-height.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\text-height.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/text-width.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\text-width.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/text.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\text.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/underline.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\underline.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/text/undo.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\text\undo.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/swiss-knife.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\swiss-knife.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/angle-grinder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\angle-grinder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/axe.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\axe.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/brush.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/compass.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\compass.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/hummer-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\hummer-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/hummer.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\hummer.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/pantone.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\pantone.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/road-cone.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\road-cone.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/roller.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\roller.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/roulette.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\roulette.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/screwdriver.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\screwdriver.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/shovel.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\shovel.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/tools/spatula.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\tools\spatula.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/rain-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\rain-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/celcium.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\celcium.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloud-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloud-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloud-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloud-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloud-fog.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloud-fog.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloud-sun.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloud-sun.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloud-wind.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloud-wind.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloudy-night.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloudy-night.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/cloudy.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\cloudy.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/day-rain.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\day-rain.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/fahrenheit.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\fahrenheit.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/fog.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\fog.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/moon.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\moon.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/night-fog.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\night-fog.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/night-rain.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\night-rain.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/rain-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\rain-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/rain-5.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\rain-5.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/rainbow.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\rainbow.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/snow-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\snow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/snow-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\snow-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/snow-3.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\snow-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/snow.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\snow.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/storm.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\storm.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/sun-fog.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\sun-fog.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/sun.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\sun.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/suset-1.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\suset-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/suset-2.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\suset-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/temperature-empty.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\temperature-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/temperature-full.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\temperature-full.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/temperature-half.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\temperature-half.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/thunder-night.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\thunder-night.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/thunder.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\thunder.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/umbrella.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\umbrella.svg
+Content Type: image/svg+xml
+
+Uri: https://jumpstart.mediumra.re/assets/img/icons/theme/weather/wind.svg
+File Name: c:\Downloaded Web Sites\jumpstart.mediumra.re\assets\img\icons\theme\weather\wind.svg
+Content Type: image/svg+xml
+
